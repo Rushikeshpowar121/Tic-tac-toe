@@ -47,6 +47,3 @@ This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript. Players 
 - `style.css`: The styling for the game board and overall design.
 - `script.js`: The JavaScript code that handles game logic, win detection, and replay functionality.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
